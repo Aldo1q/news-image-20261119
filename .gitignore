@@ -1,1 +1,19 @@
+# Python bytecode and caches
 __pycache__/
+*.py[cod]
+*.pyo
+
+# Grader output (regenerated every run)
+output/
+
+# Local tooling and editor state
+.venv/
+venv/
+.DS_Store
+*.swp
+*~
+
+# Test and coverage artefacts
+.pytest_cache/
+.coverage
+htmlcov/
